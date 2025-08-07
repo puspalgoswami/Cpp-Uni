@@ -44,7 +44,7 @@ int main() {
     }
 
     char operation;
-    cout << "Enter operation (+, -, *, /): ";
+    cout << "Enter operation (+, -, *): ";
     cin >> operation;
 
     cout << endl << "Result:" << endl;
@@ -92,3 +92,4 @@ int main() {
      
     return 0;
 }
+
